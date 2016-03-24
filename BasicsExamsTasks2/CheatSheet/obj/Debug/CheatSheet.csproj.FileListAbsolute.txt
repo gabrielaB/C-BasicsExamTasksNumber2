@@ -1,0 +1,5 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\CheatSheet\bin\Debug\CheatSheet.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\CheatSheet\bin\Debug\CheatSheet.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\CheatSheet\bin\Debug\CheatSheet.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\CheatSheet\obj\Debug\CheatSheet.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\CheatSheet\obj\Debug\CheatSheet.pdb

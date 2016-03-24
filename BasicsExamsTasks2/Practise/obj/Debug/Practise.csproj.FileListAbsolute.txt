@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Practise\bin\Debug\Practise.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Practise\bin\Debug\Practise.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Practise\bin\Debug\Practise.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Practise\obj\Debug\Practise.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Practise\obj\Debug\Practise.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Practise\obj\Debug\Practise.pdb

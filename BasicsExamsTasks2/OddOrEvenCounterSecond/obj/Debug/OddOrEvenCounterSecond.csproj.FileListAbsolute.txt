@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\OddOrEvenCounterSecond\bin\Debug\OddOrEvenCounterSecond.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\OddOrEvenCounterSecond\bin\Debug\OddOrEvenCounterSecond.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\OddOrEvenCounterSecond\bin\Debug\OddOrEvenCounterSecond.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\OddOrEvenCounterSecond\obj\Debug\OddOrEvenCounterSecond.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\OddOrEvenCounterSecond\obj\Debug\OddOrEvenCounterSecond.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\OddOrEvenCounterSecond\obj\Debug\OddOrEvenCounterSecond.pdb

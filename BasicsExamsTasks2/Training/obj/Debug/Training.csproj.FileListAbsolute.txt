@@ -1,0 +1,9 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Training\bin\Debug\Training.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Training\bin\Debug\Training.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Training\bin\Debug\Training.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Training\obj\Debug\Training.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\Training\obj\Debug\Training.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\Training\bin\Debug\Training.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\Training\obj\Debug\Training.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\Training\obj\Debug\Training.pdb

@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\ChessboardGame\bin\Debug\ChessboardGame.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\ChessboardGame\bin\Debug\ChessboardGame.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\ChessboardGame\bin\Debug\ChessboardGame.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\ChessboardGame\obj\Debug\ChessboardGame.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\ChessboardGame\obj\Debug\ChessboardGame.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution4\ChessboardGame\obj\Debug\ChessboardGame.pdb

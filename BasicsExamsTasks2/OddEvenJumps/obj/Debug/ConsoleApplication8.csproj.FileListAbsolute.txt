@@ -1,0 +1,9 @@
+c:\users\a\documents\visual studio 2015\Projects\Solution4\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+c:\users\a\documents\visual studio 2015\Projects\Solution4\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution4\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+c:\users\a\documents\visual studio 2015\Projects\Solution4\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\Solution4\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution4\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\OddEvenJumps\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\OddEvenJumps\obj\Debug\ConsoleApplication8.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks2\OddEvenJumps\obj\Debug\ConsoleApplication8.pdb
